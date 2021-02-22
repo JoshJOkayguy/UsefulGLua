@@ -29,6 +29,11 @@ local function LocalPlayerFPS()
   --TODO
 end
 
+-- Make a circle
+local function trigonometry()
+  -- Look, I barely know trigonometry, and chances are you don't either. That's a problem, because it's an extremely useful skill that'll help us a ton when coding in the future. Thankfully, you don't have to learn it today because I have a very simple function to draw a circle here that you can copy and paste like the shameless skid you are.
+end
+
 -- SERVERSIDE CODE --
 -- A simple explanation of when and how to use sql in gmod
 local function sqlExplanation()
