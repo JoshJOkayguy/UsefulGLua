@@ -14,7 +14,7 @@ Useful Garry's Mod Lua functions that myself and others can reference.
 
 
 # Advice
-This is mainly just general advice for your coding experience that isn't an actual "example" per se.
+This is mainly just general advice for your coding experience that isn't an actual "example" per se. Uh... Please read it?
 
 - Use surface.CreateFont sparingly, it eats up performance. Basically just don't create a new font for every possible font size in the known universe.
 - When working with derma, use docking when possible, it's very useful and will save you the trouble of manually positioning (and scaling, in some cases) everything.
