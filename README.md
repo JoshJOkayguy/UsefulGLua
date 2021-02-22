@@ -6,7 +6,7 @@ Do *NOT* be intimidates by the code in [examples.lua](https://github.com/JoshJOk
 
 # Index
 
-###SO LONG AS THIS REPO IS BEING MAINTAINED THIS SECTION IS A WIP
+### SO LONG AS THIS REPO IS BEING MAINTAINED THIS SECTION IS A WIP
 
 - ["Popup" Animation](https://github.com/JoshJOkayguy/UsefulGLua/blob/main/examples.lua#L6)
 - [Get the FPS of the local player](https://github.com/JoshJOkayguy/UsefulGLua/blob/main/examples.lua#L28)
