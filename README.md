@@ -25,4 +25,4 @@ This is mainly just general advice for your coding experience that isn't an actu
 - Proofread your code to check for things like unecessary lines of code, messy formatting, endless loops, etc.
 - Reference the [gmod wiki](http://wiki.facepunch.com/gmod/) when you can, it's useful and may provide you with an alternate solution to a complex task that you're undertaking... It also makes sure that you don't waste the time of others when the answer you're looking for is literally on the wiki.
   - When asking for help, make sure you aren't creating the [xy problem](https://xyproblem.info/).
-- Always look for an alteranate, better solution. If what you're doing seems convoluted or wrong, it just may be. Ask for help, search the wiki, search your brain. It seems obvious, but it's a truly useful piece of advice.
+- Always look for an alternate, better solution. If what you're doing seems convoluted or wrong, it just may be. Ask for help, search the wiki, search your brain. It seems obvious, but it's a truly useful piece of advice.
