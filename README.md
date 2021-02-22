@@ -16,7 +16,7 @@ Useful Garry's Mod Lua functions that myself and others can reference.
 # Advice
 This is mainly just general advice for your coding experience that isn't an actual "example" per se. Uh... Please read it?
 
-- If you want to learn gLua, there is this very obscure yet powerful resource called [youtube](www.youtube.com).
+- If you want to learn gLua, there is this very obscure yet powerful resource called [youtube](youtube.com).
 - Use surface.CreateFont sparingly, it eats up performance. Basically just don't create a new font for every possible font size in the known universe.
 - When working with derma, use docking when possible, it's very useful and will save you the trouble of manually positioning (and scaling, in some cases) everything.
 - Try to avoid using global variables. They can be really useful, but you have to be careful with them because they WILl conflict with other addons if they have the same name.
