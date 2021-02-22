@@ -20,3 +20,7 @@ This is mainly just general advice for your coding experience that isn't an actu
 - When working with derma, use docking when possible, it's very useful and will save you the trouble of manually positioning (and scaling, in some cases) everything.
 - Try to avoid using global variables. They can be really useful, but you have to be careful with them because they WILl conflict with other addons if they have the same name.
   - Also, make sure your variables have unique names so that you can actually remember what they do when you or someone else reads your code (or so that they don't conflict with other addons in the event that they're global variables!)
+- Comment your code so that you and others understand what's happening if you decide to go back to it in the future.
+- Proofread your code to check for things like unecessary lines of code, messy formatting, endless loops, etc.
+- Reference the [gmod wiki](http://wiki.facepunch.com/gmod/) when you can, it's useful and may provide you with an alternate solution to a complex task that you're undertaking... It also makes sure that you don't waste the time of others when the answer you're looking for is literally on the wiki.
+  - When asking for help, make sure you aren't creating the [xy problem](https://xyproblem.info/)
