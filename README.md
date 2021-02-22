@@ -11,3 +11,12 @@ Useful Garry's Mod Lua functions that myself and others can reference.
 
 - ["Popup" Animation](https://github.com/JoshJOkayguy/UsefulGLua/blob/main/examples.lua#L6)
 - [Get the FPS of the local player](https://github.com/JoshJOkayguy/UsefulGLua/blob/main/examples.lua#L28)
+
+
+# Advice
+This is mainly just general advice for your coding experience that isn't an actual "example" per se.
+
+- Use surface.CreateFont sparingly, it eats up performance. Basically just don't create a new font for every possible font size in the known universe.
+- When working with derma, use docking when possible, it's very useful and will save you the trouble of manually positioning (and scaling, in some cases) everything.
+- Try to avoid using global variables. They can be really useful, but you have to be careful with them because they WILl conflict with other addons if they have the same name.
+  - Also, make sure your variables have unique names so that you can actually remember what they do when you or someone else reads your code (or so that they don't conflict with other addons in the event that they're global variables!)
