@@ -6,7 +6,7 @@ local function sqlExplanation()
   if !sql.TableExists( 'UsefulGLua_sqlTutorial' ) then -- In case you missed it, we are checking if the table does NOT exist, look at the exclamation mark prior to the statement.
     
     sql.Query("CREATE TABLE UsefulGLua_sqlTutorial(column1 VARCHAR(255), column2 VARCHAR(255) ) ") -- Creates a table called "UsefulGLua_sqlTutorial" with two columns named column1 and column2. VARCHAR is simply an identifier of the datatype that will go into that column.
-    sql.Query("INSERT INTO UsefulGLua_sqlTutorial('column1' 'column2')VALUES ('"..exampleVar.."', 'SQL is cool') ") -- Inserts the value stored in exampleVar into column1 and "SQL is cool" into column2. As you can see, you have to escape the quotes that SQLite needs to concatenate a variable.
+    sql.Query("INSERT INTO UsefulGLua_sqlTutorial('column1' 'column2')VALUES ('"..exampleVar.."', 'SQL is cool') ") -- Inserts the value stored in exampleVar into column1 and "SQL is cool" into column2. As you can see, you have to escape the quotes that SQL queries need to concatenate a variable.
   end
   
   print(sql.Query("SELECT * FROM UsefulGLua_sqlTutorial")) -- Selects * (ALL) from the table. So, it's printing everything we just put in right out into the console.
