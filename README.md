@@ -17,7 +17,7 @@ Useful Garry's Mod Lua functions that myself and others can reference.
 - [Simple SQL Explanation](https://github.com/JoshJOkayguy/UsefulGLua/blob/main/serverside_examples.lua#L1)
 
 ### SHARED
-- [Global Variables](https://github.com/JoshJOkayguy/UsefulGLua/blob/main/shared_examples.lua#L1)
+- Placeholder text
 
 # Advice
 This is mainly just general advice for your coding experience that isn't an actual "example" per se. Some of it is pretty obvious, but I guess common sense just isn't common anymore.
