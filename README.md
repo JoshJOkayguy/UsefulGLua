@@ -17,7 +17,6 @@ Useful Garry's Mod Lua functions that myself and others can reference.
 
 ### CLIENT
 - [Menu "Popup" Animation](https://github.com/JoshJOkayguy/UsefulGLua/blob/main/clientside_examples.lua#L3)
-- [Get the Local Player's FPS](https://github.com/JoshJOkayguy/UsefulGLua/blob/main/clientside_examples.lua#L25)
 
 ### SERVER
 - [Simple SQL Explanation](https://github.com/JoshJOkayguy/UsefulGLua/blob/main/serverside_examples.lua#L1)
