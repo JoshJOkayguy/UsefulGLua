@@ -7,7 +7,7 @@ Useful Garry's Mod Lua functions that myself and others can reference.
 
 # Index
 
-## SO LONG AS THIS REPO IS BEING MAINTAINED THIS SECTION IS A WIP
+**SO LONG AS THIS REPO IS BEING MAINTAINED THIS SECTION IS A WIP**
 
 ### CLIENT
 - [Menu "Popup" Animation](https://github.com/JoshJOkayguy/UsefulGLua/blob/main/clientside_examples.lua#L3)
