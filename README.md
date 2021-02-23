@@ -20,7 +20,7 @@ Useful Garry's Mod Lua functions that myself and others can reference.
 - [Global Variables](https://github.com/JoshJOkayguy/UsefulGLua/blob/main/shared_examples.lua#L1)
 
 # Advice
-This is mainly just general advice for your coding experience that isn't an actual "example" per se. Uh... Please read it?
+This is mainly just general advice for your coding experience that isn't an actual "example" per se. Some of it is pretty obvious, but I guess common sense just isn't common anymore.
 
 - If you want to learn gLua, there is this very obscure yet powerful resource called [youtube](https://www.youtube.com/).
 - Use surface.CreateFont sparingly, it eats up performance. Basically just don't create a new font for every possible font size in the known universe.
