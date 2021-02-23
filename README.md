@@ -1,3 +1,9 @@
+- [Introduction](https://github.com/JoshJOkayguy/UsefulGLua#usefulglua)
+- [Index](https://github.com/JoshJOkayguy/UsefulGLua#index)
+ - [CL Funcs](https://github.com/JoshJOkayguy/UsefulGLua#client)
+ - [SV Funcs](https://github.com/JoshJOkayguy/UsefulGLua#server)
+ - [SH Funcs](https://github.com/JoshJOkayguy/UsefulGLua#shared)
+- [Advice](https://github.com/JoshJOkayguy/UsefulGLua#advice)
 # UsefulGLua
 Useful Garry's Mod Lua functions that myself and others can reference.
 
