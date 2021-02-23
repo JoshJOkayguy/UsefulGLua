@@ -14,8 +14,7 @@ Useful Garry's Mod Lua functions that myself and others can reference.
 
 # Contributing
 
-Feel free to add or change things as you please, but it'll only get merged if the explanation is clear enough to understand. If it's too advanced, make use of the [advanced functions folder](https://google.com)
-
+Feel free to add or change things as you please, but it'll only get merged if the explanation is clear enough to understand. If it's too advanced, make a new file for it.
 # Index
 
 **SO LONG AS THIS REPO IS BEING MAINTAINED THIS SECTION IS A WIP**
