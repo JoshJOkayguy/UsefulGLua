@@ -1,4 +1,5 @@
 - [Introduction](https://github.com/JoshJOkayguy/UsefulGLua#usefulglua)
+- [Contributing](https://github.com/JoshJOkayguy/UsefulGLua#contributing)
 - [Index](https://github.com/JoshJOkayguy/UsefulGLua#index)
   - [CL Funcs](https://github.com/JoshJOkayguy/UsefulGLua#client)
   - [SV Funcs](https://github.com/JoshJOkayguy/UsefulGLua#server)
@@ -10,6 +11,10 @@ Useful Garry's Mod Lua functions that myself and others can reference.
   Do *NOT* be intimidated by the code in any of the files. It's very simple so long as you carefully look through it and read the comments! I'll provide an index towards the end of the readme if you still find yourself lost so that you can still get help with whatever you need. I'll also provide some tips for coding at the bottom of the page, I'm no expert but I've picked up a few tricks in the time I've been making addons.
 
   I have neatly explained pretty much everything I do in the code (unless it is completely unecessary to explain), so hopefully nobody should have too many problems referencing these. The point is not just for you to copy and paste what you see here, it's for you to understand what you're looking at so that you can apply it in the future. You can, of course, copy and paste it regardless but I urge you to read the comments and try to grasp an understanding of what is being shown here.
+
+# Contributing
+
+Feel free to add or change things as you please, but it'll only get merged if the explanation is clear enough to understand. If it's too advanced, make use of the [advanced functions folder](https://google.com)
 
 # Index
 
