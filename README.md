@@ -42,10 +42,10 @@ This is mainly just general advice for your coding experience that isn't an actu
   - When asking for help, make sure you aren't creating the [xy problem](https://xyproblem.info/).
 - Always look for an alternate, better solution. If what you're doing seems convoluted or wrong, it just may be. Search the wiki and think hard BEFORE asking for help, it'll help you become a better coder. It seems obvious, but it's a truly useful piece of advice that some people genuinely don't consider.
 - Do not be afraid to ask people to look at your code or give advice, if anybody can tell you how to make your code cleaner and more optimized, it's someone with more experience in the field.
-- Use Camel case for variable and function names e.g plyPos or longString it is good practice and should be used.
+- Use [Camel case](https://techterms.com/definition/camelcase) for variable and function names e.g plyPos or longString it is good practice and should be used.
 
 # Text Editors
-These are text editors which you should use, they are the most used for glua have good syntaxing.
+These are text editors which you should use, they are the most used and have good syntaxing for glua (Aswell as many other languages).
 
 - [sublime text](https://www.sublimetext.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
