@@ -47,7 +47,7 @@ This is mainly just general advice for your coding experience that isn't an actu
 # Text Editors
 These are text editors which you should use, they are the most used for glua have good syntaxing.
 
--[sublime text](https://www.sublimetext.com/)
--[Visual Studio Code](https://code.visualstudio.com/)
+- [sublime text](https://www.sublimetext.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
   - Use with [GLua Enhanced](https://marketplace.visualstudio.com/items?itemName=venner.vscode-glua-enhanced)
 
