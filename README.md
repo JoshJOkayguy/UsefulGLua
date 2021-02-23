@@ -5,6 +5,7 @@
   - [SV Funcs](https://github.com/JoshJOkayguy/UsefulGLua#server)
   - [SH Funcs](https://github.com/JoshJOkayguy/UsefulGLua#shared)
 - [Advice](https://github.com/JoshJOkayguy/UsefulGLua#advice)
+- [Text Editors](https://github.com/JoshJOkayguy/UsefulGLua#text-editors)
 # UsefulGLua
 Useful Garry's Mod Lua functions that myself and others can reference.
 
