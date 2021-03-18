@@ -27,7 +27,8 @@ Feel free to add or change things as you please, but it'll only get merged if th
 - [Simple SQL Explanation](https://github.com/JoshJOkayguy/UsefulGLua/blob/main/serverside_examples.lua#L1)
 
 ### SHARED
-- Placeholder text
+- [is* functions](https://github.com/JoshJOkayguy/UsefulGLua/blob/main/shared_examples.lua#L1)
+- [Notifications](https://github.com/JoshJOkayguy/UsefulGLua/blob/main/shared_examples.lua#L24)
 
 # Advice
 This is mainly just general advice for your coding experience that isn't an actual "example" per se. Some of it is pretty obvious, but I guess common sense just isn't common anymore.
