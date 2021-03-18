@@ -1,6 +1,6 @@
 -- 1. is* functions
 
-local PLAYER = FindMetaTable("Player")
+local PLAYER = FindMetaTable("Player") -- https://wiki.facepunch.com/gmod/Meta_Tables
 local ENTITY = FindMetaTable("Entity")
 local NPC = FindMetaTable("NPC")
 local NEXTBOT = FindMetaTable("NextBot")
